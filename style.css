@@ -1,0 +1,38 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#carousel{
+  width: 40vw;
+  height: 25vw;
+  text-align: center  !important;
+  
+}
+.card-img-top{
+  height: 35vw;
+}
+
+h2,h1{
+  text-align: center;
+}
+
+.card-group{
+  background-color: #d2a9e5;
+}
+
+#navbar{
+  background-color: #d2a9e5;
+}
+
+#noah{
+  width:45vw;
+  text-align: center;
+
+  
+}
+
+#fax{
+  color: darkred;
+  tex-align: cnter;
+}
